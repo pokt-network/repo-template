@@ -30,7 +30,7 @@ Full Description
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Example usage
 
@@ -70,7 +70,7 @@ Give an example
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on contributions and the process of submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/pokt-network/repo-template/blob/master/CONTRIBUTING.md) for details on contributions and the process of submitting pull requests.
 
 ## Support & Contact
 
@@ -84,4 +84,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-This project is licensed under the Apache 2.0 License; see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License; see the [LICENSE.md](LICENSE.md) file for details.
